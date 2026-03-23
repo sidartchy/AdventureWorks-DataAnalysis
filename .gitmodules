@@ -1,0 +1,3 @@
+[submodule "AdventureWorks-for-Postgres"]
+	path = AdventureWorks-for-Postgres
+	url = .\\AdventureWorks-for-Postgres\\
