@@ -1,0 +1,11 @@
+territory,country,region_group,actual_sales_ytd,sales_last_year,actual_cost_ytd,cost_last_year,revenue_yoy_variance,revenue_yoy_growth_pct,revenue_trend,cost_yoy_variance,cost_yoy_change_pct,cost_to_revenue_ratio_pct
+United Kingdom,GB,Europe,5012905.37,1635823.4,0.0,0.0,3377081.97,206.45,Growing,0.0,,0.0
+Germany,DE,Europe,3805202.35,1307949.79,0.0,0.0,2497252.56,190.93,Growing,0.0,,0.0
+Australia,AU,Pacific,5977814.92,2278548.98,0.0,0.0,3699265.94,162.35,Growing,0.0,,0.0
+Northwest,US,North America,7887186.79,3298694.49,0.0,0.0,4588492.29,139.1,Growing,0.0,,0.0
+France,FR,Europe,4772398.31,2396539.76,0.0,0.0,2375858.55,99.14,Growing,0.0,,0.0
+Southwest,US,North America,10510853.87,5366575.71,0.0,0.0,5144278.16,95.86,Growing,0.0,,0.0
+Canada,CA,North America,6771829.14,5693988.86,0.0,0.0,1077840.28,18.93,Growing,0.0,,0.0
+Central,US,North America,3072175.12,3205014.08,0.0,0.0,-132838.96,-4.14,Declining,0.0,,0.0
+Northeast,US,North America,2402176.85,3607148.94,0.0,0.0,-1204972.09,-33.41,Declining,0.0,,0.0
+Southeast,US,North America,2538667.25,3925071.43,0.0,0.0,-1386404.18,-35.32,Declining,0.0,,0.0

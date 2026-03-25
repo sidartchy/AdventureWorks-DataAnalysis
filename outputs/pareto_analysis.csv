@@ -1,0 +1,87 @@
+vendor_id,vendor_name,total_spend,spend_pct,cumulative_pct,spend_rank,vendor_tier
+1576,Superior Bicycles,4555897.5,7.14,7.14,1,Critical Vendor
+1684,Professional Athletic Consultants,3058774.95,4.79,11.94,2,Critical Vendor
+1696,Chicago City Saddles,3029108.78,4.75,16.69,3,Critical Vendor
+1680,Jackson Authority,2553243.0,4.0,20.69,4,Critical Vendor
+1578,"Vision Cycles, Inc.",2513742.0,3.94,24.63,5,Critical Vendor
+1632,Sport Fan Co.,2421619.2,3.8,28.42,6,Critical Vendor
+1678,"Proseware, Inc.",2347422.0,3.68,32.1,7,Critical Vendor
+1658,Crowley Sport,2237800.95,3.51,35.61,8,Critical Vendor
+1506,Greenwood Athletic Company,2237800.95,3.51,39.12,8,Critical Vendor
+1586,Mitchell Sports,2193922.5,3.44,42.56,10,Critical Vendor
+1570,First Rate Bicycles,2085277.43,3.27,45.83,11,Critical Vendor
+1588,Signature Cycles,2023560.0,3.17,49.0,12,Critical Vendor
+1646,Electronic Bike Repair & Supplies,1950021.15,3.06,52.06,13,Critical Vendor
+1538,Vista Road Bikes,1892178.75,2.97,55.02,14,Critical Vendor
+1652,Victory Bikes,1857170.7,2.91,57.93,15,Critical Vendor
+1638,Inline Accessories,1766855.48,2.77,60.7,16,Critical Vendor
+1628,Bicycle Specialists,1766855.48,2.77,63.47,16,Critical Vendor
+1508,"Compete Enterprises, Inc",1567115.55,2.46,65.93,18,Critical Vendor
+1542,Hill's Bicycle Service,1445528.7,2.27,68.2,19,Critical Vendor
+1624,Competition Bike Training Systems,1443172.5,2.26,70.46,20,Critical Vendor
+1526,International Bicycles,1438165.58,2.25,72.71,21,Critical Vendor
+1530,Comfort Road Bicycles,1431686.03,2.24,74.96,22,Critical Vendor
+1498,"Trikes, Inc.",1322763.75,2.07,77.03,23,Critical Vendor
+1556,West Junction Cycles,1276563.75,2.0,79.03,24,Critical Vendor
+1568,"Custom Frames, Inc.",1190487.38,1.87,80.9,25,Tail Spend
+1610,Hybrid Bicycle Center,1148352.98,1.8,82.7,26,Tail Spend
+1636,Integrated Sport Products,1078941.6,1.69,84.39,27,Tail Spend
+1682,"Premier Sport, Inc.",1077903.75,1.69,86.08,28,Tail Spend
+1654,American Bikes,1040262.3,1.63,87.71,29,Tail Spend
+1672,Expert Bike Co,1036840.53,1.63,89.34,30,Tail Spend
+1664,Anderson's Custom Bikes,746031.83,1.17,90.51,31,Tail Spend
+1560,Capital Road Cycles,697140.68,1.09,91.6,32,Tail Spend
+1594,Fitness Association,554020.0,0.87,92.47,33,Tail Spend
+1584,Trey Research,522889.92,0.82,93.29,34,Tail Spend
+1692,Carlson Specialties,508190.13,0.8,94.08,35,Tail Spend
+1494,Allenson Cycles,451212.3,0.71,94.79,36,Tail Spend
+1676,Team Athletic Co.,396729.0,0.62,95.41,37,Tail Spend
+1626,Hill Bicycle Center,363738.38,0.57,95.98,38,Tail Spend
+1694,"Compete, Inc.",316758.75,0.5,96.48,39,Tail Spend
+1608,Sport Playground,297412.5,0.47,96.95,40,Tail Spend
+1544,Circuit Cycles,293485.5,0.46,97.41,41,Tail Spend
+1620,Lakewood Bicycle,291285.23,0.46,97.86,42,Tail Spend
+1644,International Sport Assoc.,189379.58,0.3,98.16,43,Tail Spend
+1522,First National Sport Co.,102200.18,0.16,98.32,44,Tail Spend
+1514,Training Systems,82432.92,0.13,98.45,45,Tail Spend
+1604,Bike Satellite Inc.,79098.74,0.12,98.57,46,Tail Spend
+1602,Beaumont Bikes,71841.42,0.11,98.68,47,Tail Spend
+1546,Green Lake Bike Company,69407.5,0.11,98.79,48,Tail Spend
+1600,Federal Sport,65090.03,0.1,98.9,49,Tail Spend
+1674,Varsity Sport Co.,47218.5,0.07,98.97,50,Tail Spend
+1574,Jeff's Sporting Goods,38780.0,0.06,99.03,51,Tail Spend
+1656,Mountain Works,35976.87,0.06,99.09,52,Tail Spend
+1540,Bergeron Off-Roads,34952.15,0.05,99.14,53,Tail Spend
+1562,Norstan Bike Hut,28800.14,0.05,99.19,54,Tail Spend
+1536,Cruger Bike Company,28506.62,0.04,99.23,55,Tail Spend
+1504,Chicago Rent-All,28145.88,0.04,99.28,56,Tail Spend
+1616,Aurora Bike Center,27356.9,0.04,99.32,57,Tail Spend
+1590,SUPERSALES INC.,26250.0,0.04,99.36,58,Tail Spend
+1496,Advanced Bicycles,25793.75,0.04,99.4,59,Tail Spend
+1686,Pro Sport Industries,25538.59,0.04,99.44,60,Tail Spend
+1582,Inner City Bikes,24713.67,0.04,99.48,61,Tail Spend
+1666,Leaf River Terrain,24595.29,0.04,99.52,62,Tail Spend
+1614,"Reliance Fitness, Inc.",23620.65,0.04,99.55,63,Tail Spend
+1622,Speed Corporation,23287.64,0.04,99.59,64,Tail Spend
+1516,Gardner Touring Cycles,23197.86,0.04,99.63,65,Tail Spend
+1572,National Bike Association,23089.5,0.04,99.66,66,Tail Spend
+1554,WestAmerica Bicycle Co.,22678.77,0.04,99.7,67,Tail Spend
+1492,Australia Bike Retailer,22678.77,0.04,99.73,67,Tail Spend
+1518,International Trek Center,21882.5,0.03,99.77,69,Tail Spend
+1534,Ready Rentals,21389.19,0.03,99.8,70,Tail Spend
+1500,Morgan Bike Accessories,20947.5,0.03,99.84,71,Tail Spend
+1598,Continental Pro Cycles,20778.35,0.03,99.87,72,Tail Spend
+1650,American Bicycles and Wheels,8724.9,0.01,99.88,73,Tail Spend
+1580,"Litware, Inc.",7740.57,0.01,99.89,74,Tail Spend
+1698,Business Equipment Center,7690.32,0.01,99.91,75,Tail Spend
+1690,Bloomington Multisport,7460.59,0.01,99.92,76,Tail Spend
+1510,International,7295.12,0.01,99.93,77,Tail Spend
+1648,Wide World Importers,7262.99,0.01,99.94,78,Tail Spend
+1612,"Midwest Sport, Inc.",6632.33,0.01,99.95,79,Tail Spend
+1688,Wood Fitness,6287.4,0.01,99.96,80,Tail Spend
+1618,Metro Sport Equipment,5723.55,0.01,99.97,81,Tail Spend
+1566,Burnett Road Warriors,5230.76,0.01,99.98,82,Tail Spend
+1592,Lindell,4898.25,0.01,99.99,83,Tail Spend
+1520,G & K Bicycle Corp.,4578.32,0.01,99.99,84,Tail Spend
+1548,Consumer Cycles,3057.17,0.0,100.0,85,Tail Spend
+1662,Northern Bike Travel,1853.78,0.0,100.0,86,Tail Spend

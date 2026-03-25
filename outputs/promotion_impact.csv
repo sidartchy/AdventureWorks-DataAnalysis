@@ -1,0 +1,13 @@
+offer_description,offer_type,offer_category,discount_pct,line_items_sold,total_units,gross_revenue,total_discount_given,net_revenue,effective_discount_rate_pct,revenue_per_line_item
+No Discount,No Discount,No Discount,0.0,115884,238944,102372622.26,0.0,102372622.26,0.0,883.41
+Volume Discount 11 to 14,Volume Discount,Reseller,2.0,3428,18181,4955456.43,59004.52,4896451.91,1.19,1428.37
+Volume Discount 15 to 24,Volume Discount,Reseller,5.0,606,10713,1092256.13,54612.81,1037643.33,5.0,1712.28
+Touring-1000 Promotion,New Product,Reseller,20.0,244,775,757657.45,145332.91,612324.54,19.18,2509.53
+Touring-3000 Promotion,New Product,Reseller,15.0,524,1581,536310.76,78219.56,458091.19,14.58,874.22
+Mountain-100 Clearance Sale,Discontinued Product,Reseller,35.0,137,456,386042.61,135114.91,250927.7,35.0,1831.59
+Volume Discount 25 to 40,Volume Discount,Reseller,10.0,80,2321,137942.82,13794.28,124148.53,10.0,1551.86
+Road-650 Overstock,Excess Inventory,Reseller,30.0,61,304,71408.69,21422.61,49986.08,30.0,819.44
+Mountain-500 Silver Clearance Sale,Discontinued Product,Reseller,40.0,169,382,43165.24,17266.09,25899.14,40.0,153.25
+Sport Helmet Discount-2003,Seasonal Discount,Reseller,15.0,84,680,10706.94,1606.04,9100.9,15.0,108.34
+Sport Helmet Discount-2002,Seasonal Discount,Reseller,10.0,98,492,8276.47,827.65,7448.83,10.0,76.01
+Volume Discount 41 to 60,Volume Discount,Reseller,15.0,2,85,2043.52,306.53,1736.99,15.0,868.5
